@@ -34,8 +34,8 @@ public class TheBoilingEarthEraC {
             for (int j = 0; j < temperatures[i].length; j++) {
                 // 気温の生成
                 double temp = YearAveTemp + (random.nextDouble(-5.0, 5.0));
-                // 小数点第一位へ丸める
-                double editedTemp = ((int) (temp * 10)) / 10.0;
+                // 小数点第二位を丸める
+                double editedTemp = Math.round(temp * 10) / 10.0;
                 temperatures[i][j] = editedTemp;
             }
             // 毎年DIFF_TEMP分平均気温を上昇させる
