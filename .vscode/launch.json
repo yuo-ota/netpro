@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PrimeCheck",
+            "request": "launch",
+            "mainClass": "ex3.PrimeCheck",
+            "projectName": "netpro_ceace0a8"
+        },
+        {
+            "type": "java",
+            "name": "MyExceptionHoliday",
+            "request": "launch",
+            "mainClass": "ex3.MyExceptionHoliday",
+            "projectName": "netpro_ceace0a8"
+        },
+        {
+            "type": "java",
+            "name": "AverageC",
+            "request": "launch",
+            "mainClass": "ex3.AverageC",
+            "projectName": "netpro_ceace0a8"
+        },
+        {
+            "type": "java",
+            "name": "XmasTree",
+            "request": "launch",
+            "mainClass": "ex3.XmasTree",
+            "projectName": "netpro_ceace0a8"
+        },
+        {
+            "type": "java",
             "name": "TheBoilingEarthEraC",
             "request": "launch",
             "mainClass": "ex2.TheBoilingEarthEraC",

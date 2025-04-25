@@ -1,0 +1,13 @@
+5月の何日ですか？（終了したい場合はexitと入力）：1
+ex3.NoHolidayException
+        at ex3.MyExceptionHoliday.search(MyExceptionHoliday.java:62)
+        at ex3.MyExceptionHoliday.<init>(MyExceptionHoliday.java:23)
+        at ex3.MyExceptionHoliday.main(MyExceptionHoliday.java:9)
+この日は平日だよ！はたらきたくないねー。エラーメッセージです。
+5月の何日ですか？（終了したい場合はexitと入力）：5
+5日はお休みです。
+5月の何日ですか？（終了したい場合はexitと入力）：-1
+不正な値です。再入力してください。
+5月の何日ですか？（終了したい場合はexitと入力）：aa
+不正な値です。再入力してください。
+5月の何日ですか？（終了したい場合はexitと入力）：exit
