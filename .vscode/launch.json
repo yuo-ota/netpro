@@ -6,6 +6,125 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MagicalBananaClient",
+            "request": "launch",
+            "mainClass": "ex4.MagicalBananaClient",
+            "projectName": "netpro_ceace0a8"
+        },
+        {
+            "type": "java",
+            "name": "TaskClientWhile",
+            "request": "launch",
+            "mainClass": "TaskClientWhile",
+            "projectName": "netpro_ceace0a8"
+        },
+        {
+            "type": "java",
+            "name": "TaskServerWhile",
+            "request": "launch",
+            "mainClass": "TaskServerWhile",
+            "projectName": "netpro_ceace0a8"
+        },
+        {
+            "type": "java",
+            "name": "TaskClientOnce",
+            "request": "launch",
+            "mainClass": "TaskClientOnce",
+            "projectName": "netpro_ceace0a8"
+        },
+        {
+            "type": "java",
+            "name": "TaskServerOnce",
+            "request": "launch",
+            "mainClass": "TaskServerOnce",
+            "projectName": "netpro_ceace0a8"
+        },
+        {
+            "type": "java",
+            "name": "DinnerFullCourse",
+            "request": "launch",
+            "mainClass": "DinnerFullCourse",
+            "projectName": "netpro_ceace0a8"
+        },
+        {
+            "type": "java",
+            "name": "ReferencesArgument",
+            "request": "launch",
+            "mainClass": "ReferencesArgument",
+            "projectName": "netpro_ceace0a8"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "netpro_ceace0a8"
+        },
+        {
+            "type": "java",
+            "name": "XmasTCPClient",
+            "request": "launch",
+            "mainClass": "XmasTCPClient",
+            "projectName": "netpro_ceace0a8"
+        },
+        {
+            "type": "java",
+            "name": "MagicalBananaClient",
+            "request": "launch",
+            "mainClass": "MagicalBananaClient",
+            "projectName": "netpro_ceace0a8"
+        },
+        {
+            "type": "java",
+            "name": "MagicalBananaServer",
+            "request": "launch",
+            "mainClass": "MagicalBananaServer",
+            "projectName": "netpro_ceace0a8"
+        },
+        {
+            "type": "java",
+            "name": "VernamClient",
+            "request": "launch",
+            "mainClass": "VernamClient",
+            "projectName": "netpro_ceace0a8"
+        },
+        {
+            "type": "java",
+            "name": "ShiritoriClient",
+            "request": "launch",
+            "mainClass": "ShiritoriClient",
+            "projectName": "netpro_ceace0a8"
+        },
+        {
+            "type": "java",
+            "name": "ShiritoriServer",
+            "request": "launch",
+            "mainClass": "ShiritoriServer",
+            "projectName": "netpro_ceace0a8"
+        },
+        {
+            "type": "java",
+            "name": "XmasServer",
+            "request": "launch",
+            "mainClass": "XmasServer",
+            "projectName": "netpro_ceace0a8"
+        },
+        {
+            "type": "java",
+            "name": "Server",
+            "request": "launch",
+            "mainClass": "Server",
+            "projectName": "netpro_ceace0a8"
+        },
+        {
+            "type": "java",
+            "name": "Client",
+            "request": "launch",
+            "mainClass": "Client",
+            "projectName": "netpro_ceace0a8"
+        },
+        {
+            "type": "java",
             "name": "PrimeCheck",
             "request": "launch",
             "mainClass": "ex3.PrimeCheck",
